@@ -1,6 +1,6 @@
 name = ''
 while name != 'your name' : 
-	print('What is youre name?')
+	print('Please type your name')
 	input()
-	else : 
+	if name == 'your name'
 	print('Thank you!')
